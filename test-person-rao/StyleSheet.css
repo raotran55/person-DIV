@@ -1,0 +1,30 @@
+﻿body { font-family: "Times New Roman", Times, serif;font-size:12px;
+}
+#contentMain { margin:20px auto 0px auto;
+}
+.page-header {text-align:center;color:navy;
+}
+.header-th { padding:4px 8px;text-align:center;
+}
+.rowitems { text-align:center;font-family: "Times New Roman", Times, serif;font-size:14px;
+}
+button {margin:3px 0px 9px -14px;
+}
+
+.modal-dialog {
+ 
+          width: 360px;
+ 
+        }
+ 
+.modal-header {
+ 
+    background-color: #337AB7;
+ 
+    padding:16px 16px;
+ 
+    color:#FFF;
+ 
+    border-bottom:2px dashed #337AB7;
+ 
+ }
